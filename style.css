@@ -1,0 +1,49 @@
+header{
+    text-align: center;
+}
+
+nav{
+    text-align: center;
+    background-color: rgb(227, 217, 217);
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+table{
+    margin-left:auto;
+    margin-right:auto;
+    text-align: center;
+
+}
+
+.bg1{
+background-color:#7EE5DA ;
+}
+
+.bg2{
+background-color:#70CCC2;
+}
+
+.bg3{
+background-color: #62B3AA;
+}
+
+.p1{
+   padding-left: 190px;
+   padding-right: 190px;
+}
+
+.p2{
+    padding-left: 102.5px;
+    padding-right: 102.5px;
+}
+
+.f1{
+    font-size: 12px;
+}
+
+footer{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 13px;
+}
